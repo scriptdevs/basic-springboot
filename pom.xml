@@ -13,7 +13,7 @@
 	<artifactId>newproject</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
-	<name>NewProject</name>
+	<name>Basic SpringBoot Applications</name>
 	<description>The initial base code by CodeInitializer.COM to build the next wonderful app called NewProject</description>
 
 	<properties>
