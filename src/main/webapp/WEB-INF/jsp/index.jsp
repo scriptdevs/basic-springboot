@@ -8,17 +8,13 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>NewProject - The initial base code by CodeInitializer.COM to build the next wonderful app called NewProject</title>
+<title>NewProject - The initial base code by CodeInitializer.COM</title>
 
 </head>
 
 <h1>Your Next Big App Starts Here</h1>
 
-<p>This code structure was automatically generated.</p>
-
-<p>
-	Please visit us at <a target='_blank' href='http://www.codeinitializer.com'>http://www.codeinitializer.com</a>
-</p>
+<p>This code structure was created by  <a target='_blank' href='http://www.codeinitializer.com'>http://www.codeinitializer.com</a></p>
 
 </html>
 
