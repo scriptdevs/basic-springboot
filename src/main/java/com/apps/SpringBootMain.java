@@ -10,7 +10,6 @@ public class SpringBootMain {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringBootMain.class, args);
-
     }
 
     @EventListener({ ApplicationReadyEvent.class })
